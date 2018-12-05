@@ -26,7 +26,7 @@ define('DB_NAME', 'esbcwp_blog9');
 define('DB_USER', 'esbcwp_blog9_admin');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'O.esbcwp_blog9_happy');
+define('DB_PASSWORD', 'esbcwp_blog9_happy');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
